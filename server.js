@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const util = require("util");
-const connection = require("./config/connection");
+const connection = require("./connection.js");
 
 const consoleTable = require("console.table");
 
