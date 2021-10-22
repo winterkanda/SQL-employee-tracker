@@ -3,6 +3,7 @@
 ## Description 
 This is a command-line application which is built as a content management system interface that manages a company's employee database, using Node.js, Inquirer, and MySQL. Please start or invoke application through command-line or terminal using "node server.js", from which you will be prompted to choose which action you would like to take. 
 
+---make sure to add a .env file that follows the example.env file
 
 ## User Story
 AS A business owner
@@ -19,6 +20,7 @@ SO THAT I can organize and plan my business
 * CSS
 * JavaScript
 * MySQL
+* dotenv
 
 &nbsp;  
 

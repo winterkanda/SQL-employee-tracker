@@ -1,6 +1,6 @@
 node_modules/
 
-connection.js/
+.env
 
-
+package-lock.json
 
