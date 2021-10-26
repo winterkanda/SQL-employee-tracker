@@ -25,7 +25,7 @@ SO THAT I can organize and plan my business
 
 
 ## Walk-Through Video
-
+https://watch.screencastify.com/v/ziEK0GqfAMELI6BJ4nhJ
 
 &nbsp;  
 
